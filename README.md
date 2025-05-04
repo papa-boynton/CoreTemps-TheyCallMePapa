@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Monitor you cpu temps from Droptop.</h4>
+<h4 align="center">Monitor your cpu temps from Droptop.</h4>
 
 <p align="center">
   <a href="https://droptopfour.com/community-apps"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F&query=%24%5B88%5D%5B'version'%5D&label=Version&color=43ff64"></a>
