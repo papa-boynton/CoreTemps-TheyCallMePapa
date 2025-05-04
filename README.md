@@ -32,7 +32,7 @@ Can monitor up to 8 cores.
 Must have Coretemp.exe installed and running.
 
 ## Download
-[Droptop Four Community Apps](https://droptopfour.com/community-apps/?id=96)
+[Droptop Four Community Apps](https://droptopfour.com/community-apps/)
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton)
